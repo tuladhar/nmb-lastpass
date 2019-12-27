@@ -9,3 +9,9 @@ NMB LastPass Integration
 2. Browse to chrome://extensions
 3. Toggle "Developer mode" from top-right corner.
 4. Drag and drop the `.crx` file
+
+
+#### Demo
+
+![](https://github.com/tuladhar-p/nmb-lastpass/blob/demo-gif/demo.gif)
+
