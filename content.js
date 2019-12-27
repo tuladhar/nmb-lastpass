@@ -1,0 +1,1 @@
+document.getElementById('loginForm:userName').type = 'text'
