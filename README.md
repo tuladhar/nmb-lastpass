@@ -15,3 +15,9 @@ NMB LastPass Integration
 
 ![](https://github.com/tuladhar-p/nmb-lastpass/blob/demo-gif/demo.gif)
 
+#### How to unpack `.crx` file and view the source code.
+
+1. Goto https://crxextractor.com/
+2. Upload the `.crx` extension
+3. Download the source code `.zip` file
+
