@@ -21,3 +21,4 @@ NMB LastPass Integration
 2. Upload the `.crx` extension
 3. Download the source code `.zip` file
 
+![](https://github.com/tuladhar-p/nmb-lastpass/blob/unpack-crx/unpacked-crx.png)
