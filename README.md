@@ -2,7 +2,7 @@
 
 Chrome extension to integrate [LastPass](https://www.lastpass.com/) with [NMB e-ebanking portal](https://www.nmbbank.net/).
 
-#### What the use of this extension?
+#### What's the use of this extension?
 
 NMB e-banking portal restricts auto-filling of username/password fields via password managers (i.e, LastPass). This chrome extension removes that restriction, thus allowing more secure way to input username/password directly from password managers (i.e, LastPass). [Learn why you should use password managers](https://www.howtogeek.com/141500/why-you-should-use-a-password-manager-and-how-to-get-started/)
 
