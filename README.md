@@ -1,6 +1,6 @@
 # nmb-lastpass
 
-Chrome extension to integrate [LastPass](https://www.lastpass.com/) with [NMB e-ebanking portal](https://www.nmbbank.net/).
+Chrome extension to integrate [LastPass](https://www.lastpass.com/) with [NMB e-banking portal](https://www.nmbbank.net/).
 
 #### What's the use of this extension?
 
