@@ -17,7 +17,7 @@ NMB e-banking portal restricts auto-filling of username/password fields via pass
 
 #### Demo
 
-![](https://github.com/tuladhar-p/nmb-lastpass/blob/demo-gif/demo.gif)
+![](demo.gif)
 
 #### How to unpack `.crx` file and view the source code.
 
